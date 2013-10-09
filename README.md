@@ -1,4 +1,0 @@
-MyTest
-======
-
-Some Test.
